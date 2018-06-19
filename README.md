@@ -989,6 +989,7 @@ Components and native modules.
 ### Animation
 
 * [react-native-interactable ★3653](https://github.com/wix/react-native-interactable) - experimental implementation of high performance interactable views in React Native
+* [react-native-gesture-handler ★807](https://github.com/kmagiera/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
 * [react-native-spruce ★337](https://github.com/prscX/react-native-spruce) - React Native Bridge for Spruce Animation Library
 * [react-native-gl-model-view ★181](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
 * [react-native-animated-sprite ★85](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
